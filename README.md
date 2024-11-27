@@ -146,9 +146,6 @@ Student Dashboard
 
 ![student dashboard dark](https://github.com/rudrax14/MERN_STACK-StudentTeacher-Booking-Appointment/assets/97178716/ab39e093-3bad-4101-982d-5eb459593580)
 
-Teacher Dashboard
-
-![teacher d Dark](https://github.com/rudrax14/MERN_STACK-StudentTeacher-Booking-Appointment/assets/97178716/ab56fb55-e38f-47d9-9622-0e48257d06e5)
 
 
 Admin Dashboard
@@ -169,8 +166,8 @@ Password: pass123
  ```
 **Admin**
  ```bash
-email: admin@gmail.com
-Password: admin
+email: shivamss123vb@gmail.com
+Password: 12345
  ```
 **Note: Don't Spam**
 
